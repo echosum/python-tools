@@ -1,3 +1,5 @@
+“只能计算pycharm下你打过的python代码行数，而且得把改文件放到PycharmProjects目录下才有用”
+
 import os,re
 R = 0
 class Cal_PG:
